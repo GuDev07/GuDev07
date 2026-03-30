@@ -4,30 +4,6 @@
 
 Me chamo Gustavo Vieira Santana, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Elite, ao mesmo tempo que concluí o curso técnico em informática na Etec. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na SPTech. Sou apaixonado por tecnologia e criei minha marca "[Bistech](https://www.bistech.com.br)", onde dou vida à soluções de problemas reais, entre em contato também através do Instagram, com o perfil chamado "[bistech_oficial](https://www.instagram.com/bistech_oficial/)".
 
-<p align="left">
-    <a href="https://www.instagram.com/_.gstvo._/">
-        <img 
-            alt="youtube subscribers" 
-            title="Siga-me no Instagram" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://github.com/GuDev07?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/GuDev07?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
