@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Vieira Santana, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Elite, ao mesmo tempo que concluí o curso técnico em informática na Etec. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na SPTech. Sou apaixonado por tecnologia e criei minha marca "[Bistech](https://www.bistech.com.br)", onde dou vida à soluções de problemas reais, entre em contato também através do Instagram, com o perfil chamado "[bistech_oficial](https://www.instagram.com/bistech_oficial/)".
+Me chamo Gustavo Vieira Santana, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no Elite, ao mesmo tempo que concluí o curso técnico em informática na Etec. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na SPTech. Sou apaixonado por tecnologia e criei minha marca "[Bistech](https://www.bistech.com.br)", onde dou vida à soluções de problemas reais, entre em contato também através do Instagram, com o perfil chamado "[bistech_oficial](https://www.instagram.com/bistech_oficial/)".
 
 ---
 
